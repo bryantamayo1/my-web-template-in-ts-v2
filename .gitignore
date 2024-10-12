@@ -1,0 +1,8 @@
+# Visual Studio Code
+.vscode
+
+# Variables of environment
+.env
+
+node_modules
+build
